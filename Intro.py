@@ -46,4 +46,4 @@ if person_Age >= 18:
     print("4. " + pixel)
     print("5. " + blackberry)
     under_Age_Select_Phone = raw_input("This are the phones we have in stock, please one:")
-    print("We are out of stock!")
+    print("We are out of stock")
